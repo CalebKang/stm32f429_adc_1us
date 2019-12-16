@@ -5,7 +5,7 @@ This is an examples for ADD converting in every 1usec by using STM32F429.
 
  - STM32F429 Nucleo board
  - ADC1 4 channels
- - Using TIM1 as a trigger of ADC convertion start
+ - Using TIM1 as a trigger of ADC conversion start
  
  
  
